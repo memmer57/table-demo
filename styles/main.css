@@ -1,0 +1,59 @@
+html {
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+.sold-out {
+    color: red;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 75%;
+}
+
+th {
+    background-color: #1976d3;
+    color: white;
+    border: 1px solid white;
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+}
+
+.size {
+    background-color: #bbdefa;
+    font-weight: 600;
+}
+
+.type {
+    background-color: white;
+    font-weight: 600;
+}
+
+.brass {
+    background-color: #d4d297;
+}
+
+.steel {
+    background-color: #dfe1e0;
+}
+
+.titanium {
+    background-color: #aab6fe;
+}
+
+.size, .type, .brass, .steel, .titanium {
+    border: 1px solid #80888f;
+}
+
+thead, tbody {
+    border-bottom: 3px solid black;
+}

@@ -1,0 +1,9 @@
+Prices of Brass, Steel and Titanium nuts and bolts
+Brass	Steel	Titanium
+Bolts	Nuts	Bolts	Nuts	Bolts	Nuts
+10cm
+Wholesale	$1.00	$1.25	$1.20	Sold Out	Sold Out
+Retail	$2.00	$3.00	$1.80	$1.60
+20cm
+Wholesale	$1.20	$1.30	$1.00	$0.80	$3.00	$1.50
+Retail	$1.60	$2.00	$2.00	$1.50	$2.50
